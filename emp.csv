@@ -4,8 +4,18 @@ emp_id,emp_name,department,salary,city,experience
 103,Rahul,Finance,52000,Chennai,3
 104,Meena,IT,60000,Hyderabad,4
 105,Karthik,Sales,42000,Mumbai,2
-106,Divya,Finance,55000,Chennai,3
+106,Divya,Finance,95000,Chennai,3
 107,Vijay,IT,70000,Bangalore,5
 108,Sneha,HR,40000,Coimbatore,2
 109,Manoj,Sales,48000,Hyderabad,3
 110,Anitha,IT,65000,Chennai,4
+111,Arun Kumar,IT,55000
+112,Priya Sharma,HR,48000
+113,Rahul Singh,Finance,62000
+114,Meena Raj,Marketing,51000
+115,Karthik S,IT,58000
+116,Divya Kumar,HR,47000
+117,Vijay Anand,Finance,65000
+118,Anjali Devi,Marketing,53000
+119,Suresh Babu,IT,60000
+120,Naveen Kumar,Finance,68000
