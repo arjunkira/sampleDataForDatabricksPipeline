@@ -9,13 +9,13 @@ emp_id,emp_name,department,salary,city,experience
 108,Sneha,HR,40000,Coimbatore,2
 109,Manoj,Sales,48000,Hyderabad,3
 110,Anitha,IT,65000,Chennai,4
-111,Arun Kumar,IT,55000
-112,Priya Sharma,HR,48000
-113,Rahul Singh,Finance,62000
-114,Meena Raj,Marketing,51000
-115,Karthik S,IT,58000
-116,Divya Kumar,HR,47000
-117,Vijay Anand,Finance,65000
-118,Anjali Devi,Marketing,53000
-119,Suresh Babu,IT,60000
-120,Naveen Kumar,Finance,68000
+111,Arun Kumar,IT,55000,Chennai,3
+112,Priya Sharma,HR,42000,Bangalore,2
+113,Rahul Kumar,Finance,58000,Hyderabad,4
+114,Meena Devi,IT,62000,Chennai,5
+115,Karthik Raj,Sales,45000,Mumbai,3
+116,Divya S,Finance,57000,Coimbatore,4
+117,Vijay Anand,IT,72000,Bangalore,6
+118,Sneha R,HR,41000,Chennai,2
+119,Manoj Kumar,Sales,50000,Hyderabad,4
+120,Anitha S,IT,68000,Chennai,5
